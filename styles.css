@@ -80,3 +80,8 @@ nav .nav-items a {
   height: 80%;
   width: 100%;
 }
+
+.h-1 {
+  font-size: 60px;
+  font-weight: 400;
+}
